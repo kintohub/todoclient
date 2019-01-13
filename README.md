@@ -7,7 +7,7 @@
 - under the hood: 
     + React with Redux on front-end 
     + Nodejs on backend 
-    + MongoDb
+    + MongoDB
     
 ## To deploy on kinto:
  1. Create new Dynamic Web App using "Create from existing repo" and locate this repo 
